@@ -6,16 +6,21 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marco-gau
 
 **EasyMeds**
 
-https://docs.google.com/presentation/d/11l8trgUOSYG5D2OFqCFyUaAiCLW3FjSioFMegNup0yk/edit?usp=sharing
 <img width="1724" height="1077" alt="image" src="https://github.com/user-attachments/assets/67e68a2a-58c4-4644-ad34-d74f9865a947" />
+https://docs.google.com/presentation/d/11l8trgUOSYG5D2OFqCFyUaAiCLW3FjSioFMegNup0yk/edit?usp=sharing
+
 
 
 **Pearl companion robot**
 
+<img width="1707" height="1060" alt="image" src="https://github.com/user-attachments/assets/629579ce-2586-4b7c-9872-850624e968a6" />
 https://canva.link/sb6p1aon6siv8d6
 https://www.figma.com/file/RjhurQp3duxQ3cvzITSL07?node-id=0:1&locale=en&type=design
 
+
+
 **safeHer**
 
+<img width="1206" height="678" alt="image" src="https://github.com/user-attachments/assets/84b0b206-80c8-4b50-8a8e-c9842411d569" />
 https://docs.google.com/document/d/16qxu85xTobD1bsMLR5KQV23fHAejhuZkYZ42rPDa_Xs/edit?usp=sharing
 https://drive.google.com/file/d/19PjybbMzcCAFdruYqY08L4xsuvLuhcWJ/view?usp=sharing
