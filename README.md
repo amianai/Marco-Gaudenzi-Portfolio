@@ -7,6 +7,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marco-gau
 **EasyMeds**
 
 https://docs.google.com/presentation/d/11l8trgUOSYG5D2OFqCFyUaAiCLW3FjSioFMegNup0yk/edit?usp=sharing
+<img width="1724" height="1077" alt="image" src="https://github.com/user-attachments/assets/67e68a2a-58c4-4644-ad34-d74f9865a947" />
+
 
 **Pearl companion robot**
 
