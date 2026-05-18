@@ -44,6 +44,39 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marco-gau
 <br>
 <br>
 
+### [Angry & Linguistic Chatbot](https://github.com/amianai/esame_06_Gaudenzi_Protelli)
+*Exploring human-computer interaction and cognitive friction in conflictual scenarios.*
+
+* **The Problem:** Most commercial chatbots are designed to be excessively compliant. This limits the ability to study how users react to disagreement, conversational friction, and psychological pushback in human-computer interaction.
+* **My Role:** Developer & Prompt Engineer. I handled the integration of LLM APIs using Python and designed the specific prompt architecture to induce intentional and coherent disagreement.
+* **Key Features:**
+  * **Misaligned Persona:** Utilized advanced few-shot prompting techniques to create an agent that intentionally challenges the user, creating a controlled environment to study cognitive friction and conflict resolution.
+  * **Python/API Integration:** Built a backend architecture to handle real-time API calls, process conversational logic, and maintain context during long, argumentative interactions.
+
+*(Note: The original repository documentation and code comments are in Italian, but the core methodology is summarized above).*
+
+<img width="1200" height="600" alt="Chatbot UI Preview" src="<img width="1409" height="1600" alt="image" src="https://github.com/user-attachments/assets/7c0eee51-7669-42c6-9ea5-4bfc3da7a476" />
+" />
+
+<br>
+<br>
+
+### [Seeking - AI Wrapper & Data Dashboard](https://github.com/amianai/seeking)
+*A full-stack interface bridging powerful AI models with accessible user controls.*
+
+* **The Problem:** Raw AI models and APIs lack accessible interfaces for non-technical users. People need a way to control technical parameters intuitively and save their conversational history persistently without writing code.
+* **My Role:** Full-Stack Developer. I built the entire web application from the ground up, bridging the frontend UI with the AI model backend and implementing the database infrastructure.
+* **Key Features:**
+  * **Granular UI Controls:** Designed custom sliders and interface elements (built with Vue.js) that translate complex LLM parameters—like temperature and token limits—into intuitive visual controls for the end user.
+  * **Real-Time Persistence:** Integrated Firebase to manage real-time database operations, ensuring that user sessions, data logs, and message histories are saved and retrieved seamlessly across sessions.
+
+*(Note: The original repository documentation and code comments are in Italian, but the core methodology is summarized above).*
+
+<img width="1200" height="600" alt="Seeking Dashboard Preview" src="INSERISCI_QUI_IL_LINK_DELL_IMMAGINE" />
+
+<br>
+<br>
+
 ### [safeHer](https://drive.google.com/file/d/19PjybbMzcCAFdruYqY08L4xsuvLuhcWJ/view?usp=sharing) - [Research Report](https://docs.google.com/document/d/16qxu85xTobD1bsMLR5KQV23fHAejhuZkYZ42rPDa_Xs/edit?usp=sharing)
 
 *A systemic service design project tackling gender-based violence and urban safety through research and ecosystem mapping.*
