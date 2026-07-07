@@ -56,7 +56,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marco-gau
 *(Note: The original repository documentation and code comments are in Italian, but the core methodology is summarized above).*
 
 <img width="1200" height="600" alt="Chatbot UI Preview" src="<img width="1409" height="1600" alt="image" src="https://github.com/user-attachments/assets/7c0eee51-7669-42c6-9ea5-4bfc3da7a476" />
-" />
+
 
 <br>
 <br>
